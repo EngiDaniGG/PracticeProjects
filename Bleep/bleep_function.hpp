@@ -1,0 +1,1 @@
+void bleep(std::string word_bleep, std::string &text_bleep);
